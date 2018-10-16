@@ -28,4 +28,7 @@ Your task is to build an online store! Okay, maybe not a whole online store, but
 1. Create a new action in `StoreAdminController` called `invoice`, and insert an `h1` that says "Your Invoice".
 2. This action is assigned the default layout for the controller, `admin`, but we don't want it to use any layout at all (while also not affecting the layouts assigned to other actions in the controller).
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-layouts-and-templates-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-layouts-and-templates-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails Layouts And Templates Lab</p>
